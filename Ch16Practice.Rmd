@@ -1,0 +1,17 @@
+---
+title: "Ch16Practice"
+author: "Molly Simonis"
+date: "June 10, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+
+#This is an R project I am using as a dummy project to put into github for practice
+
+```
+
