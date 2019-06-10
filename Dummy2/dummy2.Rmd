@@ -1,0 +1,13 @@
+---
+title: "dummy2"
+author: "Molly Simonis"
+date: "June 10, 2019"
+output: html_document
+---
+
+This is another dummy project that I will place on git hub
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
